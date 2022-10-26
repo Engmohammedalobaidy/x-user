@@ -18,7 +18,6 @@ logo = pyfiglet.figlet_format("                 INFO")
 loga = pyfiglet.figlet_format("  USERNAME")
 print(W+logo)
 print(Z+loga)
-print(W+"						1.0v")
 print('''
                \033[0;37m BY: ENG MOHAMMED ALOBAIDY
                 \033[2;32mGITHUB: @Engmohammedalobaidy
